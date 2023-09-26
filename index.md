@@ -1,5 +1,4 @@
-# Materiale lezioni di matematica
-Appunti ed esercizi per l'anno scolastico 2023-2024
+# Appunti ed esercizi per l'anno scolastico 2023-2024
 
 ## Liceo Classico "Dante Alighieri"
 ### [Classe 1AC](https://barulli.notion.site/1-AC-A-S-2023-2024-2ba1398723254d26b8bd3f55709b59e2)
