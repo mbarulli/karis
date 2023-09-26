@@ -2,4 +2,4 @@ remote_theme: pages-themes/minimal@v0.2.0
 title: Lezioni di Matematica
 description: Prof. Marco Barulli - Licei Karis
 logo: karis-icon.png
-
+layouts_dir: /my-layouts
