@@ -1,4 +1,2 @@
----
-title: Materiale lezioni di matematica
----
+# Materiale lezioni di matematica
 
